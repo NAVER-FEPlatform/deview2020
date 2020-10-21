@@ -2,6 +2,10 @@
 
 egjs 오픈 서커스에 오신 것을 환영합니다.
 
+### 발표자
+* 김현준 [@henjun](https://github.com/henjun)
+* 최연규 [@daybrush](https://github.com/daybrush)
+
 
 ### 개발
 
