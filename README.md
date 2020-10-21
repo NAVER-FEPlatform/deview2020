@@ -2,7 +2,9 @@
 
 egjs 오픈 서커스에 오신 것을 환영합니다.
 
-
+### 발표자
+* 김현준 @henjun
+* 최연규 @daybrush
 ### 개발
 
 * 개발 템플릿: main 브랜치(기본) https://github.com/NAVER-FEPlatform/deview2020/tree/main
