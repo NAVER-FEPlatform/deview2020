@@ -37,5 +37,8 @@
     "start": "npm run server:dev"
   },
   "version": "0.0.1",
-  "dependencies": {}
+  "dependencies": {
+    "@egjs/flicking": "^3.5.1",
+    "@egjs/infinitegrid": "^3.6.3"
+  }
 }
